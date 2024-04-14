@@ -6,5 +6,6 @@ public enum MotivoNotificacion {
     LLEUGE_BIEN,
     ACEPTAR,
     RECHAZAR,
-    INCIDENTE
+    INCIDENTE,
+    FINALIZAR
 }
